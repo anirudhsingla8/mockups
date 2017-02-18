@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 
 var articles={ 
-articleone:{
+articleOne:{
   title:'article-one | Anirudh Singla',
   heading: 'Article one',
   date:'feb 18,2016',
@@ -99,7 +99,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one', function(req, res) {
-   res.send(createTemplate(articleone));
+   res.send(createTemplate(articleOne));
 });
 
    app.get('/article-two', function(req, res) {
