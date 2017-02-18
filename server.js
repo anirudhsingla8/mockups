@@ -10,7 +10,7 @@ var content=
   title:'article-one | Anirudh Singla',
   heading: 'Article one',
   date:'feb 18,2016',
-  content:  '
+  content:  `
              <p>
              this is the content for my first article.
              </p>
@@ -19,7 +19,7 @@ var content=
              </p>
              <p>
              this is the content for my first article.
-             </p>'
+             </p>`
 };
 
 app.get('/', function (req, res) {
