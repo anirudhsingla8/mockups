@@ -22,31 +22,31 @@ var articles={
              </p>`
 },
 'article-two':{
-  title:'article-one | Anirudh Singla',
-  heading: 'Article one',
+  title:'article-two | Anirudh Singla',
+  heading: 'Article two',
   date:'feb 18,2016',
   content:  `
              <p>
-             this is the content for my first article.
+             this is the content for my second article.
              </p>
              <p>
-             this is the content for my first article.
+             this is the content for my second article.
              </p>
              <p>
-             this is the content for my first article.
+             this is the content for my second article.
              </p>`},
-'article-three':{title:'article-one | Anirudh Singla',
-  heading: 'Article one',
+'article-three':{title:'article-three | Anirudh Singla',
+  heading: 'Article three',
   date:'feb 18,2016',
   content:  `
              <p>
-             this is the content for my first article.
+             this is the content for my third article.
              </p>
              <p>
-             this is the content for my first article.
+             this is the content for my third article.
              </p>
              <p>
-             this is the content for my first article.
+             this is the content for my third article.
              </p>`}
 };
 
