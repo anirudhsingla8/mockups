@@ -34,7 +34,8 @@ var articles={
              </p>
              <p>
              this is the content for my second article.
-             </p>`},
+             </p>`
+},
 'article-three':{title:'article-three | Anirudh Singla',
   heading: 'Article three',
   date:'feb 18,2016',
